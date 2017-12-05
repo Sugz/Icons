@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <rect id="Background" x="0" y="0" width="48" height="48" style="fill:none;"/>
+    <g id="Body">
+        <path id="Outline" d="M11.435,11.141c3.328,0.073 6.606,1.463 8.735,3.982c6,-0.001 12.062,0.033 17.98,0.076c5.072,0.036 9.693,4.614 9.807,9.891c0.026,3.584 -1.09,7.125 -3.851,9.291c-4.683,3.673 -12.219,3.234 -16.26,-1.424l-0.054,-0.065c-5.561,-0.004 -11.122,0.018 -16.683,-0.013c-5.557,-0.094 -10.943,-4.233 -11.066,-9.969c-0.044,-6.134 4.344,-11.51 10.783,-11.763c0.203,-0.006 0.406,-0.007 0.609,-0.006Z" style="fill-rule:nonzero;"/>
+        <path id="Relief" d="M28.623,31.207c0,0 -17.027,-0.013 -17.372,-0.013c-5.256,0 -9.523,-3.772 -9.523,-8.417c0,-4.645 4.267,-8.417 9.523,-8.417c3.415,0 6.413,1.593 8.094,3.983c0,0 17.33,-0.002 17.404,-0.002c5.256,0 9.523,3.771 9.523,8.417c0,4.645 -4.267,8.416 -9.523,8.416c-3.437,0 -6.451,-1.551 -8.126,-3.967Z" style="fill:#bcbcbc;"/>
+        <path id="Highlight" d="M28.623,29.673c0,0 -17.027,-0.014 -17.372,-0.014c-5.256,0 -9.523,-3.771 -9.523,-8.417c0,-4.645 4.267,-8.416 9.523,-8.416c3.415,0 6.413,1.592 8.094,3.982c0,0 17.33,-0.002 17.404,-0.002c5.256,0 9.523,3.772 9.523,8.417c0,4.645 -4.267,8.417 -9.523,8.417c-3.437,0 -6.451,-1.552 -8.126,-3.967Z" style="fill:url(#_Linear1);"/>
+        <path id="Main" d="M28.623,29.673c0,0 -17.027,-0.014 -17.372,-0.014c-5.256,0 -8.671,-2.697 -8.671,-7.342c0,-4.646 3.415,-8.417 8.671,-8.417c3.415,0 5.859,1.593 7.54,3.983c0,0 17.884,-0.003 17.958,-0.003c5.256,0 9.523,2.698 9.523,7.343c0,4.645 -4.267,8.417 -9.523,8.417c-3.437,0 -6.451,-1.552 -8.126,-3.967Z" style="fill:url(#_Linear2);"/>
+    </g>
+    <g id="Pad">
+        <clipPath id="_clip3">
+            <ellipse id="Border" cx="11.174" cy="21.151" rx="6.648" ry="5.734"/>
+        </clipPath>
+        <g clip-path="url(#_clip3)">
+            <use xlink:href="#_Image4" x="3.62" y="15.132" width="15.386px" height="13.38px" transform="matrix(0.961649,0,0,0.955697,0,2.22045e-16)"/>
+        </g>
+        <ellipse id="Outline1" serif:id="Outline" cx="11.275" cy="20.974" rx="5.375" ry="4.812" style="fill:#261924;"/>
+        <ellipse id="Relief1" serif:id="Relief" cx="11.309" cy="21.144" rx="5.082" ry="4.378" style="fill:#8a6181;"/>
+        <ellipse id="Main1" serif:id="Main" cx="11.309" cy="20.663" rx="5.082" ry="4.279" style="fill:url(#_Linear5);"/>
+        <path id="Highlight1" serif:id="Highlight" d="M7.258,19.162c0.688,-1.433 2.233,-2.432 4.025,-2.432c2.333,0 4.245,1.692 4.398,3.829l-8.423,-1.397Z" style="fill:#835c7b;"/>
+    </g>
+    <g id="Red">
+        <clipPath id="_clip6">
+            <ellipse id="Border1" serif:id="Border" cx="32.379" cy="25.03" rx="2.651" ry="2.349"/>
+        </clipPath>
+        <g clip-path="url(#_clip6)">
+            <use xlink:href="#_Image7" x="31.171" y="22.897" width="7.365px" height="6.637px" transform="matrix(0.920634,0,0,0.948204,3.55271e-15,0)"/>
+        </g>
+        <ellipse id="Outline2" serif:id="Outline" cx="32.42" cy="24.897" rx="2.143" ry="1.919"/>
+        <ellipse id="Relief2" serif:id="Relief" cx="32.433" cy="24.964" rx="2.026" ry="1.746" style="fill:#ce4c48;"/>
+        <ellipse id="Main2" serif:id="Main" cx="32.433" cy="24.773" rx="2.026" ry="1.707" style="fill:#c71c20;"/>
+        <path id="Highlight2" serif:id="Highlight" d="M30.818,24.174c0.274,-0.572 0.89,-0.97 1.605,-0.97c0.93,0 1.693,0.675 1.754,1.527l-3.359,-0.557Z" style="fill:#fff;fill-opacity:0.25;"/>
+    </g>
+    <g id="Green">
+        <clipPath id="_clip8">
+            <ellipse id="Border2" serif:id="Border" cx="41.28" cy="25.03" rx="2.651" ry="2.349"/>
+        </clipPath>
+        <g clip-path="url(#_clip8)">
+            <use xlink:href="#_Image7" x="40.839" y="22.897" width="7.365px" height="6.637px" transform="matrix(0.920634,0,0,0.948204,7.10543e-15,0)"/>
+        </g>
+        <ellipse id="Outline3" serif:id="Outline" cx="41.321" cy="24.897" rx="2.143" ry="1.919"/>
+        <ellipse id="Relief3" serif:id="Relief" cx="41.334" cy="24.964" rx="2.026" ry="1.746" style="fill:#70d172;"/>
+        <ellipse id="Main3" serif:id="Main" cx="41.334" cy="24.773" rx="2.026" ry="1.707" style="fill:#2ba823;"/>
+        <path id="Highlight3" serif:id="Highlight" d="M39.719,24.174c0.274,-0.572 0.89,-0.97 1.605,-0.97c0.93,0 1.693,0.675 1.754,1.527l-3.359,-0.557Z" style="fill:#fff;fill-opacity:0.25;"/>
+    </g>
+    <g id="Yellow">
+        <clipPath id="_clip9">
+            <ellipse id="Border3" serif:id="Border" cx="36.659" cy="28.802" rx="2.651" ry="2.349"/>
+        </clipPath>
+        <g clip-path="url(#_clip9)">
+            <use xlink:href="#_Image7" x="35.82" y="26.875" width="7.365px" height="6.637px" transform="matrix(0.920634,0,0,0.948204,0,0)"/>
+        </g>
+        <ellipse id="Outline4" serif:id="Outline" cx="36.7" cy="28.668" rx="2.143" ry="1.919"/>
+        <ellipse id="Relief4" serif:id="Relief" cx="36.713" cy="28.736" rx="2.026" ry="1.746" style="fill:#c8d170;"/>
+        <ellipse id="Main4" serif:id="Main" cx="36.713" cy="28.544" rx="2.026" ry="1.707" style="fill:#bdab16;"/>
+        <path id="Highlight4" serif:id="Highlight" d="M35.098,27.945c0.274,-0.571 0.89,-0.969 1.605,-0.969c0.93,0 1.693,0.674 1.754,1.527l-3.359,-0.558Z" style="fill:#fff;fill-opacity:0.25;"/>
+    </g>
+    <g id="Blue">
+        <clipPath id="_clip10">
+            <ellipse id="Border4" serif:id="Border" cx="36.625" cy="21.353" rx="2.651" ry="2.349"/>
+        </clipPath>
+        <g clip-path="url(#_clip10)">
+            <use xlink:href="#_Image7" x="35.783" y="19.019" width="7.365px" height="6.637px" transform="matrix(0.920634,0,0,0.948204,0,0)"/>
+        </g>
+        <ellipse id="Outline5" serif:id="Outline" cx="36.665" cy="21.219" rx="2.143" ry="1.919"/>
+        <ellipse id="Relief5" serif:id="Relief" cx="36.679" cy="21.287" rx="2.026" ry="1.746" style="fill:#7078d1;"/>
+        <ellipse id="Main5" serif:id="Main" cx="36.679" cy="21.095" rx="2.026" ry="1.707" style="fill:#2b40d7;"/>
+        <path id="Highlight5" serif:id="Highlight" d="M35.064,20.496c0.274,-0.571 0.89,-0.969 1.605,-0.969c0.93,0 1.693,0.674 1.754,1.527l-3.359,-0.558Z" style="fill:#fff;fill-opacity:0.25;"/>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(8.4838e-16,12.769,-13.8551,7.81876e-16,23.6357,16.8781)"><stop offset="0" style="stop-color:#d6d6d6;stop-opacity:1"/><stop offset="1" style="stop-color:#949494;stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(8.4838e-16,12.769,-13.8551,7.81876e-16,23.6357,16.8781)"><stop offset="0" style="stop-color:#fff;stop-opacity:1"/><stop offset="1" style="stop-color:#949494;stop-opacity:1"/></linearGradient>
+        <image id="_Image4" width="16px" height="14px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAaElEQVQokaVSQQrAMAibIKL/v/lWwZ0mQifVNrc2NYlaUFV/LoBEFAf3VevvLnPIzK3HFY8iMnbOPDLzkXMkyC1MnENARMrCjlgkOGlj2cLE+UO5ha7YaIijf9AVAzPzTtRqiOC7yg1e8L9loCONm4YAAAAASUVORK5CYII="/>
+        <linearGradient id="_Linear5" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5.56851e-16,8.55632,-9.09406,5.23924e-16,11.1308,16.3758)"><stop offset="0" style="stop-color:#825a7a;stop-opacity:1"/><stop offset="1" style="stop-color:#502d51;stop-opacity:1"/></linearGradient>
+        <image id="_Image7" width="8px" height="7px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAYAAAA1WQxeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAPklEQVQImX2NMQ4AMAgCa+Lmip/3o450atOoKRMXIEhEcH2kZnaBZPPq7hfGAoAxOF4BtOBlyUz+LoR1WrQBgRUychggwLcAAAAASUVORK5CYII="/>
+    </defs>
+</svg>

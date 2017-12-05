@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is compatible with Silverlight-->
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Name="svg4315" Width="48" Height="48">
+  <Canvas.RenderTransform>
+    <TranslateTransform X="0" Y="0"/>
+  </Canvas.RenderTransform>
+  <Canvas.Resources>
+    <LinearGradientBrush xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="_Linear1" MappingMode="Absolute" StartPoint="0,0" EndPoint="1,0">
+      <LinearGradientBrush.GradientStops>
+        <GradientStopCollection>
+          <GradientStop Color="#FFD6D6D6" Offset="0"/>
+          <GradientStop Color="#FF949494" Offset="1"/>
+        </GradientStopCollection>
+      </LinearGradientBrush.GradientStops>
+      <LinearGradientBrush.Transform>
+        <MatrixTransform Matrix="8.4838e-16 12.769 -13.8551 7.81876e-16 23.6357 16.8781"/>
+      </LinearGradientBrush.Transform>
+    </LinearGradientBrush>
+    <LinearGradientBrush xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="_Linear2" MappingMode="Absolute" StartPoint="0,0" EndPoint="1,0">
+      <LinearGradientBrush.GradientStops>
+        <GradientStopCollection>
+          <GradientStop Color="#FFFFFFFF" Offset="0"/>
+          <GradientStop Color="#FF949494" Offset="1"/>
+        </GradientStopCollection>
+      </LinearGradientBrush.GradientStops>
+      <LinearGradientBrush.Transform>
+        <MatrixTransform Matrix="8.4838e-16 12.769 -13.8551 7.81876e-16 23.6357 16.8781"/>
+      </LinearGradientBrush.Transform>
+    </LinearGradientBrush>
+    <Image xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="_Image4" Source="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAaElEQVQokaVSQQrAMAibIKL/v/lWwZ0mQifVNrc2NYlaUFV/LoBEFAf3VevvLnPIzK3HFY8iMnbOPDLzkXMkyC1MnENARMrCjlgkOGlj2cLE+UO5ha7YaIijf9AVAzPzTtRqiOC7yg1e8L9loCONm4YAAAAASUVORK5CYII=" Width="16" Height="14" x:Key="_Image4"/>
+    <LinearGradientBrush xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="_Linear5" MappingMode="Absolute" StartPoint="0,0" EndPoint="1,0">
+      <LinearGradientBrush.GradientStops>
+        <GradientStopCollection>
+          <GradientStop Color="#FF825A7A" Offset="0"/>
+          <GradientStop Color="#FF502D51" Offset="1"/>
+        </GradientStopCollection>
+      </LinearGradientBrush.GradientStops>
+      <LinearGradientBrush.Transform>
+        <MatrixTransform Matrix="5.56851e-16 8.55632 -9.09406 5.23924e-16 11.1308 16.3758"/>
+      </LinearGradientBrush.Transform>
+    </LinearGradientBrush>
+    <Image xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="_Image7" Source="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAYAAAA1WQxeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAPklEQVQImX2NMQ4AMAgCa+Lmip/3o450atOoKRMXIEhEcH2kZnaBZPPq7hfGAoAxOF4BtOBlyUz+LoR1WrQBgRUychggwLcAAAAASUVORK5CYII=" Width="8" Height="7" x:Key="_Image7"/>
+  </Canvas.Resources>
+  <!--Unknown tag: metadata-->
+  <!--Unknown tag: sodipodi:namedview-->
+  <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="0" Canvas.Top="0" Width="48" Height="48" Name="Background" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+  <Canvas Name="Body">
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="Outline" Fill="#000000" StrokeMiterLimit="1.41421" StrokeLineJoin="Round" Data="M11.435 11.141c3.328 0.073 6.606 1.463 8.735 3.982c6 -0.001 12.062 0.033 17.98 0.076c5.072 0.036 9.693 4.614 9.807 9.891c0.026 3.584 -1.09 7.125 -3.851 9.291c-4.683 3.673 -12.219 3.234 -16.26 -1.424l-0.054 -0.065c-5.561 -0.004 -11.122 0.018 -16.683 -0.013c-5.557 -0.094 -10.943 -4.233 -11.066 -9.969c-0.044 -6.134 4.344 -11.51 10.783 -11.763c0.203 -0.006 0.406 -0.007 0.609 -0.006Z"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="Relief" Fill="#FFBCBCBC" StrokeMiterLimit="1.41421" StrokeLineJoin="Round" Data="M28.623 31.207c0 0 -17.027 -0.013 -17.372 -0.013c-5.256 0 -9.523 -3.772 -9.523 -8.417c0 -4.645 4.267 -8.417 9.523 -8.417c3.415 0 6.413 1.593 8.094 3.983c0 0 17.33 -0.002 17.404 -0.002c5.256 0 9.523 3.771 9.523 8.417c0 4.645 -4.267 8.416 -9.523 8.416c-3.437 0 -6.451 -1.551 -8.126 -3.967Z"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="Highlight" Fill="{StaticResource _Linear1}" StrokeMiterLimit="1.41421" StrokeLineJoin="Round" Data="M28.623 29.673c0 0 -17.027 -0.014 -17.372 -0.014c-5.256 0 -9.523 -3.771 -9.523 -8.417c0 -4.645 4.267 -8.416 9.523 -8.416c3.415 0 6.413 1.592 8.094 3.982c0 0 17.33 -0.002 17.404 -0.002c5.256 0 9.523 3.772 9.523 8.417c0 4.645 -4.267 8.417 -9.523 8.417c-3.437 0 -6.451 -1.552 -8.126 -3.967Z"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="Main" Fill="{StaticResource _Linear2}" StrokeMiterLimit="1.41421" StrokeLineJoin="Round" Data="M28.623 29.673c0 0 -17.027 -0.014 -17.372 -0.014c-5.256 0 -8.671 -2.697 -8.671 -7.342c0 -4.646 3.415 -8.417 8.671 -8.417c3.415 0 5.859 1.593 7.54 3.983c0 0 17.884 -0.003 17.958 -0.003c5.256 0 9.523 2.698 9.523 7.343c0 4.645 -4.267 8.417 -9.523 8.417c-3.437 0 -6.451 -1.552 -8.126 -3.967Z"/>
+  </Canvas>
+  <Canvas Name="Pad">
+    <Canvas.Resources>
+      <EllipseGeometry xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="_clip3" Center="11.174,21.151" RadiusX="6.648" RadiusY="5.734"/>
+    </Canvas.Resources>
+    <Canvas Name="g4245" Clip="{StaticResource _clip3}"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="5.9" Width="10.8" Canvas.Top="16.2" Height="9.6" Name="Outline1" Fill="#FF261924" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="6.2" Width="10.2" Canvas.Top="16.8" Height="8.8" Name="Relief1" Fill="#FF8A6181" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="6.2" Width="10.2" Canvas.Top="16.4" Height="8.6" Name="Main1" Fill="{StaticResource _Linear5}" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="Highlight1" Fill="#FF835C7B" StrokeMiterLimit="1.41421" StrokeLineJoin="Round" Data="M7.258 19.162c0.688 -1.433 2.233 -2.432 4.025 -2.432c2.333 0 4.245 1.692 4.398 3.829l-8.423 -1.397Z"/>
+  </Canvas>
+  <Canvas Name="Red">
+    <Canvas.Resources>
+      <EllipseGeometry xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="_clip6" Center="32.379,25.03" RadiusX="2.651" RadiusY="2.349"/>
+    </Canvas.Resources>
+    <Canvas Name="g4256" Clip="{StaticResource _clip6}"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="30.3" Width="4.3" Canvas.Top="23" Height="3.8" Name="Outline2" Fill="#000000" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="30.4" Width="4.1" Canvas.Top="23.2" Height="3.5" Name="Relief2" Fill="#FFCE4C48" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="30.4" Width="4.1" Canvas.Top="23.1" Height="3.4" Name="Main2" Fill="#FFC71C20" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="Highlight2" Fill="#40FFFFFF" StrokeMiterLimit="1.41421" StrokeLineJoin="Round" Data="M30.818 24.174c0.274 -0.572 0.89 -0.97 1.605 -0.97c0.93 0 1.693 0.675 1.754 1.527l-3.359 -0.557Z"/>
+  </Canvas>
+  <Canvas Name="Green">
+    <Canvas.Resources>
+      <EllipseGeometry xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="_clip8" Center="41.28,25.03" RadiusX="2.651" RadiusY="2.349"/>
+    </Canvas.Resources>
+    <Canvas Name="g4267" Clip="{StaticResource _clip8}"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="39.2" Width="4.3" Canvas.Top="23" Height="3.8" Name="Outline3" Fill="#000000" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="39.3" Width="4.1" Canvas.Top="23.2" Height="3.5" Name="Relief3" Fill="#FF70D172" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="39.3" Width="4.1" Canvas.Top="23.1" Height="3.4" Name="Main3" Fill="#FF2BA823" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="Highlight3" Fill="#40FFFFFF" StrokeMiterLimit="1.41421" StrokeLineJoin="Round" Data="M39.719 24.174c0.274 -0.572 0.89 -0.97 1.605 -0.97c0.93 0 1.693 0.675 1.754 1.527l-3.359 -0.557Z"/>
+  </Canvas>
+  <Canvas Name="Yellow">
+    <Canvas.Resources>
+      <EllipseGeometry xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="_clip9" Center="36.659,28.802" RadiusX="2.651" RadiusY="2.349"/>
+    </Canvas.Resources>
+    <Canvas Name="g4278" Clip="{StaticResource _clip9}"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="34.6" Width="4.3" Canvas.Top="26.7" Height="3.8" Name="Outline4" Fill="#000000" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="34.7" Width="4.1" Canvas.Top="27" Height="3.5" Name="Relief4" Fill="#FFC8D170" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="34.7" Width="4.1" Canvas.Top="26.8" Height="3.4" Name="Main4" Fill="#FFBDAB16" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="Highlight4" Fill="#40FFFFFF" StrokeMiterLimit="1.41421" StrokeLineJoin="Round" Data="M35.098 27.945c0.274 -0.571 0.89 -0.969 1.605 -0.969c0.93 0 1.693 0.674 1.754 1.527l-3.359 -0.558Z"/>
+  </Canvas>
+  <Canvas Name="Blue">
+    <Canvas.Resources>
+      <EllipseGeometry xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="_clip10" Center="36.625,21.353" RadiusX="2.651" RadiusY="2.349"/>
+    </Canvas.Resources>
+    <Canvas Name="g4289" Clip="{StaticResource _clip10}"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="34.5" Width="4.3" Canvas.Top="19.3" Height="3.8" Name="Outline5" Fill="#000000" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="34.7" Width="4.1" Canvas.Top="19.5" Height="3.5" Name="Relief5" Fill="#FF7078D1" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="34.7" Width="4.1" Canvas.Top="19.4" Height="3.4" Name="Main5" Fill="#FF2B40D7" StrokeMiterLimit="1.41421" StrokeLineJoin="Round"/>
+    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="Highlight5" Fill="#40FFFFFF" StrokeMiterLimit="1.41421" StrokeLineJoin="Round" Data="M35.064 20.496c0.274 -0.571 0.89 -0.969 1.605 -0.969c0.93 0 1.693 0.674 1.754 1.527l-3.359 -0.558Z"/>
+  </Canvas>
+</Canvas>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is compatible with Silverlight-->
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Name="svg80" Width="48" Height="48">
+  <Canvas.RenderTransform>
+    <TranslateTransform X="0" Y="0"/>
+  </Canvas.RenderTransform>
+  <Canvas.Resources>
+    <LinearGradientBrush xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="_Linear1" MappingMode="Absolute" StartPoint="0,0" EndPoint="1,0">
+      <LinearGradientBrush.GradientStops>
+        <GradientStopCollection>
+          <GradientStop Color="#FF2953DB" Offset="0"/>
+          <GradientStop Color="#FF244FDA" Offset="1"/>
+        </GradientStopCollection>
+      </LinearGradientBrush.GradientStops>
+      <LinearGradientBrush.Transform/>
+    </LinearGradientBrush>
+  </Canvas.Resources>
+</Canvas>
